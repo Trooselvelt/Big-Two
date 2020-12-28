@@ -1,2 +1,1 @@
-# Big-Two
-A simple online implementation of Java
+A Java implementation of Big Two.
