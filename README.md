@@ -1,1 +1,1 @@
-A Java implementation of Big Two.
+A Java implementation of Big Two with online and GUI features.
